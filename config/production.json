@@ -1,4 +1,4 @@
 {
-  "mongoURL": "mongodb+srv://yenmai478:yenmai478@contactkeeper-wrhet.mongodb.net/test?retryWrites=true&w=majority",
+  "mongoURL": "",
   "jwtSecret": "secret"
 }
